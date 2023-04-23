@@ -1,0 +1,38 @@
+{
+  "name": "puppeteer-extra-plugin-capsolver-catchless",
+  "version": "1.1.2",
+  "description": "A puppeteer-extra plugin to interact/solve captcha with API. (With no catches)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spingrid/puppeteer-extra-plugin-capsolver-catchless.git"
+  },
+  "keywords": [
+    "recaptcha",
+    "hcaptcha",
+    "funcaptcha",
+    "datadome",
+    "geetest",
+    "puppeteer-extra",
+    "captcha-solver",
+    "2captcha",
+    "capsolver.com",
+    "capmonster"
+  ],
+  "author": "0qwertyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spingrid/puppeteer-extra-plugin-capsolver-catchless/issues"
+  },
+  "homepage": "https://github.com/Spingrid/puppeteer-extra-plugin-capsolver-catchless",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "capsolver-npm": "^1.0.7",
+    "puppeteer": "^19.1.2",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin": "^3.2.2"
+  }
+}
