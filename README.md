@@ -1,15 +1,18 @@
-# puppeteer-extra-plugin-capsolver
+# puppeteer-extra-plugin-capsolver-catchless
 [![](https://img.shields.io/badge/1.1.2-puppeteer--extra--plugin--capsolver-darkgreen?logo=npm&logoColor=white)](https://www.npmjs.com/package/puppeteer-extra-plugin-capsolver)
 [![](https://img.shields.io/badge/documentation-docs.capsolver.com-darkgreen)](https://docs.capsolver.com/guide/getting-started.html)
 
 - **Manage to solve captcha challenges with AI (captcha service based).**
 - **Puppeteer browser context.**
 - ❗ An API key it's **required**. [**Get here.**](https://dashboard.capsolver.com/passport/register?inviteCode=CHhA_5os)
+
+- 🐞 This is a clone of puppeteer-extra-plugin-capsolver but I have removed the catches. I do not recommend you use this unless you know what you're doing - this was made for personal use.
+
 ---
 
 ⬇️ Install
 -
-    npm i puppeteer puppeteer-extra puppeteer-extra-plugin-capsolver
+    npm i puppeteer puppeteer-extra puppeteer-extra-plugin-capsolver-catchless
 
 ✋ Usage
 -
